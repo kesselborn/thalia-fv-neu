@@ -16,3 +16,8 @@
     border-radius: 25px;
     text-shadow: 1px 1px 10px #ccc, 1px 1px 10px #ccc;
 }
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+}

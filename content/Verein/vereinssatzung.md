@@ -1,10 +1,7 @@
 ---
 date: 2022-02-17T21:56:20+01:00
+title: Vereinssatzung
 ---
-
-## Vereinssatzung
-
-   
 
   Vereinssatzung vom 19.11.2003 mit Änderung vom 19.06.2014
 
