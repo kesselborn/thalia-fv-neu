@@ -8,19 +8,19 @@
     <lastBuildDate>Mon, 21 Feb 2022 10:56:20 +0100</lastBuildDate><atom:link href="/schule/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Homepage der Thalia Grundschule</title>
-      <link>/schule/thalia-seite/</link>
+      <link>/schule/homepage-der-thalia-grundschule/</link>
       <pubDate>Mon, 21 Feb 2022 10:56:20 +0100</pubDate>
       
-      <guid>/schule/thalia-seite/</guid>
+      <guid>/schule/homepage-der-thalia-grundschule/</guid>
       <description>Die offizielle Homepage der Thalia Grundschule.</description>
     </item>
     
     <item>
       <title>Stunden- und Pausenplan</title>
-      <link>/schule/foo/</link>
+      <link>/schule/stunden-und-pausenplan/</link>
       <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/schule/foo/</guid>
+      <guid>/schule/stunden-und-pausenplan/</guid>
       <description>Stunde Unterrichtzeit Pausenzeit     0. 7:25 – 7: 50      7:50 – 8:00   1. 8:00 – 8:45      8:45 – 8:55   2. 8:55 – 9:40      9:40 – 10:00   3. 10:00 – 10:45      10:45 – 10:55   4. 10:55 – 11:40      11:40 – 12:00 (1.</description>
     </item>
     
