@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022 on </title>
+    <link>/beitr%C3%A4ge/2022/</link>
+    <description>Recent content in 2022 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/beitr%C3%A4ge/2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neue Homepage</title>
+      <link>/beitr%C3%A4ge/2022/first/</link>
+      <pubDate>Thu, 17 Feb 2022 21:56:20 +0100</pubDate>
+      
+      <guid>/beitr%C3%A4ge/2022/first/</guid>
+      <description>Hurra!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/beitr%C3%A4ge/2022/neuer-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/beitr%C3%A4ge/2022/neuer-test/</guid>
+      <description>Noch ein Test warum? Mal gucken, wie das mit Bildern ist
+Bilder </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/beitr%C3%A4ge/2022/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/beitr%C3%A4ge/2022/test/</guid>
+      <description>Dies ist ein Test Warum Einfach mal gucken, wie kompliziert das ist
+Und? Und nichts eigentlich</description>
+    </item>
+    
+  </channel>
+</rss>
